@@ -5,6 +5,8 @@
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/bin/Debug/netcoreapp2.1/DotNetCoreTest.pdb
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/bin/Debug/netcoreapp2.1/DotNetCoreTest.Views.dll
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/bin/Debug/netcoreapp2.1/DotNetCoreTest.Views.pdb
+/Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/bin/Debug/netcoreapp2.1/Model.dll
+/Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/bin/Debug/netcoreapp2.1/Model.pdb
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.csprojAssemblyReference.cache
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.csproj.CoreCompileInputs.cache
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.RazorAssemblyInfo.cache
@@ -27,6 +29,6 @@
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.RazorTargetAssemblyInfo.cache
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.RazorTargetAssemblyInfo.cs
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.Views.pdb
+/Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.csproj.CopyComplete
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.dll
 /Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.pdb
-/Users/ariel/Projects/DotNetCoreTest/DotNetCoreTest/obj/Debug/netcoreapp2.1/DotNetCoreTest.csproj.CopyComplete
