@@ -6,3 +6,4 @@
 /Users/ariel/Projects/DotNetCoreTest/Model/obj/Debug/netcoreapp2.1/Model.AssemblyInfo.cs
 /Users/ariel/Projects/DotNetCoreTest/Model/obj/Debug/netcoreapp2.1/Model.dll
 /Users/ariel/Projects/DotNetCoreTest/Model/obj/Debug/netcoreapp2.1/Model.pdb
+/Users/ariel/Projects/DotNetCoreTest/Model/obj/Debug/netcoreapp2.1/Model.csprojAssemblyReference.cache
